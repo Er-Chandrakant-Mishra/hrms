@@ -1,0 +1,162 @@
+
+
+body, html{
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+	font-family: arial;
+}
+a:focus{
+	outline:none !important;
+	}
+.block-hd {
+  color: #fcac45;
+}
+h1{
+	text-transform: uppercase;
+}
+h1 strong{
+	font-weight: 900;
+}
+h2{
+	text-transform: uppercase;
+	line-height: 20px;
+	margin:  0;
+}
+h3{
+font-size: 18px;
+font-weight:520px;
+}
+h4{
+	text-transform: uppercase;
+}
+h5{
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 20px;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+p.intro{
+	font-size: 16px;
+	margin: 12px 0 0;
+	line-height: 24px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+a:hover,
+a:focus{
+	text-decoration: none;
+}
+
+.section-title hr{
+	border-color: #fcac45;
+	border-width: 4px;
+	width: 60px;
+	float: left;
+	clear: both;
+}
+select option {
+	color: #222;
+	padding: 5px;
+}
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+ul, ol{
+	padding: 0;
+	/* webkit-padding: 0;
+	moz-padding: 0; */
+}
+.none{display:none;}
+
+.header-container{
+	max-width:1260px;
+	width:100%;
+}
+
+header figure img {
+	max-width: 136px;
+}
+
+.header.affix {
+	top: -67px;
+	opacity: .9;
+}
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	background: #fff;
+	-moz-transition: .4s;
+	-ms-transition: .4s;
+	-o-transition: .4s;
+	-webkit-transition: .4s;
+	transition: .4s;
+	z-index: 99;
+	box-shadow: 1px 1px 7px 2px #aaa;
+	
+}
+
+/*** Login Form Style ***/
+.login-block{
+background: #DE6262;  
+background: -webkit-linear-gradient(#FFB88C, #ced69b);
+background: linear-gradient(#FFB88C, #ced69b);
+float:left;
+width:100%;
+padding : 70px 0 6px;
+}
+
+.banner-sec{background:url('../assets/images/HRMS-LOGO.png') no-repeat left top; background-size:contain; min-height:500px; border-radius: 0 10px 10px 0; padding:0;}
+.form-container{background:#fff; border-radius: 10px; box-shadow:15px 20px 0px rgba(0,0,0,0.1);}
+.carousel-inner{border-radius:0 10px 10px 0;}
+.carousel-caption{text-align:left; left:5%;}
+.login-sec {padding: 40px 30px;position: relative;background: #f1f1f1;border-top-right-radius: 11px;border-bottom-right-radius: 11px;}
+.login-sec .copy-text{position:absolute; width:80%; bottom:20px; font-size:13px; text-align:center;}
+.login-sec .copy-text i{color:#FEB58A;}
+.login-sec .copy-text a{color:#E36262;}
+.login-sec h2 {margin-bottom: 23px;font-weight: normal;font-size: 16px;color: #026b97;text-transform: capitalize;}
+.login-sec h2:after{content:" "; width:86px; height:1px; background:#026b97; display:block; margin-top:2px; border-radius:3px; margin-left:auto;margin-right:auto}
+.section-logo img {max-width: 189px;width: 100%;}
+.btn-login {background: #026b97;color: #fff;font-weight: normal;width: 100%;border-radius: 0;margin-top: 15px;}
+.btn.btn-login{color:#fff; font-size: 14px;}
+.btn.btn-login:hover {color: #fff;background: #025f86;}
+.banner-text{width:70%; position:absolute; bottom:40px; padding-left:20px;}
+.banner-text h2{color:#fff; font-weight:600;}
+.banner-text h2:after{content:" "; width:100px; height:5px; background:#FFF; display:block; margin-top:20px; border-radius:3px;}
+.banner-text p{color:#fff;}
+.login-form hr {border-color: #ccc;}
+.login-form label {font-weight: normal;}
+.section-logo {margin-bottom: 26px;}
+.login-form label {padding-bottom: 5px;}
+.carousel-item img {max-width: 154px;width: 100%;margin: 5px 38px;}
+#footer-section{padding: 26px 0;}
+.footer-section p {margin: 14px 0 0;text-align: center;}
+.md-content hr {margin: 5px 0;}
+.model-body p {font-size: 14px;font-weight: normal;padding: 0;}
+.model-body {padding: 19px !important;}
+.feedback-model-body h3 {font-size: 16px !important;background: transparent !important;}
+.feedback-form label {font-size: 15px;font-weight: normal;}
+.feedback-form select, .feedback-form input {width: 100%;min-height: 32px;border-radius: 0;background: transparent; font-size: 14px;box-shadow: none;border: 0.1px solid #ccc;}
+.feedback-form textarea{width:100%;color:#fff;padding:10px;font-size: 14px;min-height: 80px;background: transparent; border:0.1px solid #ccc;}
+.textarea-req span {font-size: 13px;}
+.imp-msg h4 {font-size: 12px;border-bottom:0.1px solid #ccc;padding: 6px 0;text-align: center;margin: 0;text-transform: capitalize;margin-bottom:10px;color:#f00;}
+.btn.btn-submit {font-size: 13px;border-radius: 0;color:#222;border: 0.1px solid #222;background:transparent;}
+.feedback-model-body sup {font-size: 15px;color:#f00;}
+.close-popup a i {color: #222;}
+.close-popup h5 {font-size: 12px;float: left;font-weight: normal;margin: 0;}
+.carousel-item{
+	display: block;
+}
+

@@ -1,0 +1,86 @@
+.login-block{
+background: #DE6262;  
+background: -webkit-linear-gradient(#FFB88C, #ced69b);
+background: linear-gradient(#FFB88C, #ced69b);
+width:100%;
+padding : 50px 0;
+height:100%;
+}
+
+.banner-sec {
+background: url('../assets/images/HRMS-LOGO.png')#fff no-repeat;
+background-size: auto;
+background-size: contain;
+border-radius: 10px 0px 0px 10px;
+padding: 0px;
+height:500px;
+    
+}
+
+.r-g-img{
+    padding-top:15px;
+    padding-left:15px;
+}
+
+.login-sec {
+padding: 7px 15px;
+position: relative;
+background: #f1f1f1;
+border-top-right-radius: 11px;
+border-bottom-right-radius: 11px;
+}
+.btn-login {
+background: #026b97;
+color: #fff;
+font-weight: normal;
+width: 100%;
+border-radius: 0;
+margin-top: 15px;
+}
+
+.feedback{
+    padding-top:15px;
+}
+
+.mt-15{
+    padding-top:15px;
+}
+
+.pd-10{
+    padding-bottom:10px;
+}
+.md-effect-10.md-modal {
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+}
+.md-effect-10 .md-content {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform: rotateX(-60deg);
+	-moz-transform: rotateX(-60deg);
+	-ms-transform: rotateX(-60deg);
+	transform: rotateX(-60deg);
+	-webkit-transform-origin: 50% 0;
+	-moz-transform-origin: 50% 0;
+	transform-origin: 50% 0;
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+
+.carousel-item{
+	display: block;
+}
+a:focus{
+	outline:none !important;
+	}
+    #img-1{
+        display:inline;
+        margin-right: 30px;
+    
+    }
+   
