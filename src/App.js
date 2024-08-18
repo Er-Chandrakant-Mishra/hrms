@@ -11,7 +11,7 @@ import Login1 from "./pages/Login1";
 import PageNotFound from "./pages/PageNotFound/PageNotFound";
 function App() {
   return (
-    <Router basename="/">
+    <Router >
       <div>
         <Routes>
         <Route path="/" element={<Login1 />} />
