@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hrms/static/css/main.ff956d3a.css",
-    "main.js": "/hrms/static/js/main.a9bd7616.js",
+    "main.css": "/hrms/static/css/main.e3369901.css",
+    "main.js": "/hrms/static/js/main.0edbff24.js",
     "static/media/HRMS-LOGO.png": "/hrms/static/media/HRMS-LOGO.3b11bd788c253e18b125.png",
     "static/media/mc.png": "/hrms/static/media/mc.ea0eab2e987ce707fa63.png",
     "static/media/rit.png": "/hrms/static/media/rit.86185b55d38654cd4791.png",
@@ -9,11 +9,11 @@
     "static/media/user2-160x160.jpg": "/hrms/static/media/user2-160x160.243282c6fe0f22d78c6c.jpg",
     "static/media/ramoji-group.JPG": "/hrms/static/media/ramoji-group.356517cd972f65f091e5.JPG",
     "index.html": "/hrms/index.html",
-    "main.ff956d3a.css.map": "/hrms/static/css/main.ff956d3a.css.map",
-    "main.a9bd7616.js.map": "/hrms/static/js/main.a9bd7616.js.map"
+    "main.e3369901.css.map": "/hrms/static/css/main.e3369901.css.map",
+    "main.0edbff24.js.map": "/hrms/static/js/main.0edbff24.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff956d3a.css",
-    "static/js/main.a9bd7616.js"
+    "static/css/main.e3369901.css",
+    "static/js/main.0edbff24.js"
   ]
 }
