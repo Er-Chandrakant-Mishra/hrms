@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hrms/static/css/main.e3369901.css",
+    "main.css": "/hrms/static/css/main.ff956d3a.css",
     "main.js": "/hrms/static/js/main.a9bd7616.js",
     "static/media/HRMS-LOGO.png": "/hrms/static/media/HRMS-LOGO.3b11bd788c253e18b125.png",
     "static/media/mc.png": "/hrms/static/media/mc.ea0eab2e987ce707fa63.png",
@@ -9,11 +9,11 @@
     "static/media/user2-160x160.jpg": "/hrms/static/media/user2-160x160.243282c6fe0f22d78c6c.jpg",
     "static/media/ramoji-group.JPG": "/hrms/static/media/ramoji-group.356517cd972f65f091e5.JPG",
     "index.html": "/hrms/index.html",
-    "main.e3369901.css.map": "/hrms/static/css/main.e3369901.css.map",
+    "main.ff956d3a.css.map": "/hrms/static/css/main.ff956d3a.css.map",
     "main.a9bd7616.js.map": "/hrms/static/js/main.a9bd7616.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3369901.css",
+    "static/css/main.ff956d3a.css",
     "static/js/main.a9bd7616.js"
   ]
 }
